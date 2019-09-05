@@ -1,1 +1,1 @@
-# openshift4-nodejs-ts-mysql-ex
+# k8s-nodejs-ts-mysql-ex
